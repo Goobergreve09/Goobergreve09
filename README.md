@@ -27,7 +27,7 @@ I am nish. I am a beginner developer, here some info about me
 
 ---
 <p align="center">
-<a href="https://github.com/Nishant1500">
+<a href="https://github.com/Goobergreve09">
 <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
 </a>
 </p>
@@ -47,7 +47,7 @@ Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com
 More Info?
 
 ## GitHub Statistics
-[![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview)
+[![Goobergreve09's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goobergreve09&show_icons=true&theme=radical)](https://github.com/Goobergreve09?tab=overview)
 <br>
 <a href="https://github.com/Goobergreve09?tab=overview">
 <img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goobergreve09&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
