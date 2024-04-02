@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World 👋
 
 My name is Greg Greve. I'm a full-stack software developer with a certification from Michigan State University with courses through EDX. 
 
