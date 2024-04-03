@@ -14,7 +14,7 @@ I am nish. I am a beginner developer, here some info about me
 
 ---
 <p align="center">
-<a href="https://open.spotify.com/user/31hua33mg5ia3eqe3z4xlheomphi?si=dVa8irCrROCs36V8SXDClA&utm_source=copy-link&dl_branch=1">
+<a href="https://open.spotify.com/user/212hyismd6xfmyqsl6sx4h6fq&utm_source=copy-link&dl_branch=1">
 <img alt="Spotify: Goobergreve09" width="26px" height="26px" src="https://raw.githubusercontent.com/Goobergreve09/Goobergreve09/main/assets/Spotify.svg"/>
 </a>
 </p>
