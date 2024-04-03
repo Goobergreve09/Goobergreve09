@@ -14,16 +14,6 @@ I am nish. I am a beginner developer, here some info about me
 
 ---
 <p align="center">
-<a href="https://open.spotify.com/user/212hyismd6xfmyqsl6sx4h6fq&utm_source=copy-link&dl_branch=1">
-<img alt="Spotify: Goobergreve09" width="26px" height="26px" src="https://raw.githubusercontent.com/Goobergreve09/Goobergreve09/main/assets/Spotify.svg"/>
-</a>
-</p>
-
-```diff
-@@        Extra Contacts        @@
-```
-
-</p>
 
 ---
 <p align="center">
@@ -31,8 +21,6 @@ I am nish. I am a beginner developer, here some info about me
 <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
 </a>
 </p>
-
-Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -50,6 +38,7 @@ Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 More Info?
 
@@ -61,15 +50,6 @@ More Info?
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Goobergreve09&theme=radical" alt="More Nish Stats" /></p>
 </a>
 
-## 🎵 Spotify status
-I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
-**(If Something is not playing, it just shows static info of the previous played song)**
-
-<p align="center">
-<a href="https://readme-new.vercel.app/api/song/?opened">
-  <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
-  </p>
 
 
 
