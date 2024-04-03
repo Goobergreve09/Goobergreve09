@@ -81,8 +81,8 @@ More Info?
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://www.facebook.com/greg.greve.79/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Greg Greve Facebook" height="50" width="auto" /></a>
-<a href="https://instagram.com/hridoyalhazard" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Greg Greve LinkedIN" height="50" width="auto" /></a>
-<a href="https://github.com/HridoyHazard" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Goobergreve09" height="50" width="auto" /></a>
+<a href="https://www.linkedin.com/in/gregory-greve-b48463300/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Greg Greve LinkedIN" height="50" width="auto" /></a>
+<a href="https://github.com/Goobergreve09" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Goobergreve09" height="50" width="auto" /></a>
 
 
 
