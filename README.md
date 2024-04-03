@@ -69,6 +69,8 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
+
   
 </span>
 ---
