@@ -68,7 +68,6 @@
 </p>
 
 
-More Info?
 
 ## GitHub Statistics
 [![Goobergreve09's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goobergreve09&show_icons=true&theme=radical)](https://github.com/Goobergreve09?tab=overview)
@@ -88,7 +87,6 @@ More Info?
 
 ------
 
-[Goobergreve09](https://github.com/Goobergreve09)
 <br>
 
 
