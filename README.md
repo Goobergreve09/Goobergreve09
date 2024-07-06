@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :school: I am a `Graduate` at [Michigan State University](https://bootcamp.msu.edu/coding/) and [EDX](https://www.edx.org/boot-camps) and hold a certification in full-stack-web-development.
+- :school: I am a `Graduate` at [Michigan State University](https://bootcamp.msu.edu/coding/) / [EDX](https://www.edx.org/boot-camps) with a certification in full-stack-web-development.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
